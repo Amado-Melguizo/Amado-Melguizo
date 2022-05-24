@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></img>
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></img>
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------
 
