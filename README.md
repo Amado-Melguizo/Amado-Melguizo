@@ -1,12 +1,16 @@
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></img>
 
+## About Me
+
 Hi, my name is Amado Melguizo and I’m a Junior Developer eager to continue developing as a programmer. 
 Broad resolution skills, calm, creative personality and responsible worker.
 
 - 🖥️ I’m currently working on **ScholarShip Front-End & Back End Developer** .
 - 🌱 I’m currently learning **JavaScript , Svelte and little Excel in my free time** .
 - 📫 How to reach me: amado.melgizo@gmail.com
+- 👀 I'm interested in **working in other countries, learning a lot and getting to know the world**.
 - 🍜 Fun Fact: I'm a sportsman with hunger for travel and a gamer. 
+------------------------------------------------------------------------------------------------------------------------
 
 ## Social
 
@@ -26,10 +30,8 @@ Broad resolution skills, calm, creative personality and responsible worker.
   </a>
   </br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
 </div>
-
-</br>
+------------------------------------------------------------------------------------------------------------------------
 
 ## Languages and Tools:
 
@@ -68,15 +70,6 @@ Broad resolution skills, calm, creative personality and responsible worker.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   
 </p>
-
-<br />
-
-
-- 👋 Hi, I’m @Amado-Melguizo
-- 👀 I’m interested in ...
-- 
-- 💞️ I’m looking to collaborate on ...
--  How to reach me ...
 
 <!---
 Amado-Melguizo/Amado-Melguizo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
