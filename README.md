@@ -6,13 +6,13 @@
 
 ## **_About Me_**
 
-Hi, my name is Amado Melguizo and I’m a Junior Developer eager to continue developing as a programmer. 
+Hi, my name is Amado Melguizo and I’m a Junior Developer eager to continue as a programmer. 
 Broad resolution skills, calm, creative personality and responsible worker.
 
 - 🖥️ I’m currently working on **ScholarShip Front-End & Back End Developer** .
 - 🌱 I’m currently learning **JavaScript , Svelte and little Excel in my free time** .
-- 📫 How to reach me: amado.melgizo@gmail.com
-- 👀 I'm interested in **working in other countries, learning a lot and getting to know the world**.
+- 📫 How to contact with me? amado.melgizo@gmail.com
+- 👀 I'm interested in **working in other countries, learning a lot about the culture and explore the world**.
 - 🍜 Fun Fact: I'm a sportsman with hunger for travel and a gamer. 
 ------------------------------------------------------------------------------------------------------------------------
 
