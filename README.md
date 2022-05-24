@@ -1,6 +1,8 @@
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></img>
 
-## About Me
+------------------------------------------------------------------------------------------------------------------------
+
+## **_About Me_**
 
 Hi, my name is Amado Melguizo and I’m a Junior Developer eager to continue developing as a programmer. 
 Broad resolution skills, calm, creative personality and responsible worker.
@@ -12,7 +14,7 @@ Broad resolution skills, calm, creative personality and responsible worker.
 - 🍜 Fun Fact: I'm a sportsman with hunger for travel and a gamer. 
 ------------------------------------------------------------------------------------------------------------------------
 
-## Social
+## **_Social_**
 
 <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -29,11 +31,12 @@ Broad resolution skills, calm, creative personality and responsible worker.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=amado-melguizo&style=flat-square&color=blue" alt=""/>
 </div>
+
 ------------------------------------------------------------------------------------------------------------------------
 
-## Languages and Tools:
+## **_Languages and Tools_**
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 
