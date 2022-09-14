@@ -73,7 +73,21 @@ Broad resolution skills, calm, creative personality and responsible worker.
   
 </div>
 
+
+------------------------------------------------------------------------------------------------------------------------
+## **_Stats of my projects_**
+    
+<div id="header" align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amado-Melguizo)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 <!---
+
+
+
+
 
 Page for icons: 
 https://github.com/devicons/devicon
