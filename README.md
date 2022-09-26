@@ -26,6 +26,9 @@ Broad resolution skills, calm, creative personality and responsible worker.
   <a href="https://www.linkedin.com/in/amado-melguizo-martínez/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:amado.melgizo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -79,15 +82,12 @@ Broad resolution skills, calm, creative personality and responsible worker.
     
 <div id="header" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amado-Melguizo)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Amado's github stats](https://github-readme-stats.vercel.app/api?username=Amado-Melguizo&count_private=true&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amado-Melguizo)
+
 </div>
 
 <!---
-
-
-
-
 
 Page for icons: 
 https://github.com/devicons/devicon
